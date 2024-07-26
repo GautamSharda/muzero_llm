@@ -5,6 +5,8 @@ This implementation combines elements from traditional MuZero with adaptations
 for language modeling tasks, including a hybrid MLP-Transformer architecture
 for the dynamics function.
 
+This is a naive and simplistic sketch of how you _could_ use muzero with an LLM just for illustrative purposes. it doesn't implement the reward fn.
+
 Note: This is a simplified, educational version and is not optimized 
 or intended for any real or practical use.
 """
